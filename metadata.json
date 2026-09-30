@@ -1,0 +1,6 @@
+{
+  "name": "KNOW YOUR RIGHTS — SDG 5 & SDG 10 Exhibition",
+  "description": "An interactive cinematic digital exhibition and 3D WebGL experience exploring workplace rights, equality, discrimination, and social impact through SDG 5 (Gender Equality) and SDG 10 (Reduced Inequalities).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
